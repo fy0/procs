@@ -3,7 +3,7 @@ package procs_test
 import (
 	"testing"
 
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 func TestCommandContext(t *testing.T) {

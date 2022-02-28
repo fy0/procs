@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 func TestParseEnv(t *testing.T) {

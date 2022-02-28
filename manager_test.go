@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 func TestManagerStartHelper(t *testing.T) {

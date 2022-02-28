@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os/exec"
 
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 func Example_predefinedCmds() {

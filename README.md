@@ -1,8 +1,8 @@
 # Procs
 
 [![](https://travis-ci.org/ionrock/procs.svg?branch=master)](https://travis-ci.org/ionrock/procs)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ionrock/procs)](https://goreportcard.com/report/github.com/ionrock/procs)
-[![GoDoc](https://godoc.org/github.com/ionrock/procs?status.svg)](https://godoc.org/github.com/ionrock/procs)
+[![Go Report Card](https://goreportcard.com/badge/github.com/fy0/procs)](https://goreportcard.com/report/github.com/fy0/procs)
+[![GoDoc](https://godoc.org/github.com/fy0/procs?status.svg)](https://godoc.org/github.com/fy0/procs)
 
 Procs is a library to make working with command line applications a
 little nicer.
@@ -11,6 +11,8 @@ The primary use case is when you have to use a command line client in
 place of an API. Often times you want to do things like output stdout
 within your own logs or ensure that every time the command is called,
 there are a standard set of flags that are used.
+
+**fixed for `go mod tidy`**
 
 ## Basic Usage
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 type prefixer struct {

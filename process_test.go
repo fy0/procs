@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 func newProcess() *procs.Process {

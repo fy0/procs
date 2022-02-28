@@ -6,7 +6,7 @@ import (
 	"github.com/poy/onpar"
 	. "github.com/poy/onpar/expect"
 	. "github.com/poy/onpar/matchers"
-	"github.com/ionrock/procs"
+	"github.com/fy0/procs"
 )
 
 func matchSplitCommand(t *testing.T, parts, expected []string) {
