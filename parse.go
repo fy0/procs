@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	shlex "github.com/flynn/go-shlex"
+	shlex "github.com/fyrchik/go-shlex"
 )
 
 // SplitCommand parses a command and splits it into lexical arguments

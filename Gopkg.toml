@@ -27,4 +27,4 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/flynn/go-shlex"
+  name = "github.com/fyrchik/go-shlex"
