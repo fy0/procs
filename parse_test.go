@@ -1,4 +1,4 @@
-// package procs_test
+package procs_test
 // onpar is a bad package, it requires old verison of cobra and makes code elimination not work
 
 // import (
